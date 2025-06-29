@@ -1,3 +1,4 @@
+
 # Python
 __pycache__/
 *.pyc
@@ -7,3 +8,41 @@ mlruns/
 
 # macOS
 .DS_Store
+
+# MQL5ビルド成果物
+*.ex5
+
+# ドキュメント／画像
+*.pdf
+*.xlsx
+*.png
+*.jpg
+
+# macOSのゴミファイル
+.DS_Store
+
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
+
+# MLflowのログフォルダ
+mlruns/
+# MQL5ビルド成果物
+*.ex5
+
+# ドキュメント／画像
+*.pdf
+*.xlsx
+*.png
+*.jpg
+
+# macOSのゴミファイル
+.DS_Store
+
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
+
+# MLflowのログフォルダ
+mlruns/
+
